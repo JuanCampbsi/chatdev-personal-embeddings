@@ -47,7 +47,8 @@ def onClick(question):
     st.write(answer)
 
         
-question = st.text_input("", key="user_input")
+question = st.text_input("Digite sua pergunta aqui:", key="user_input", label_visibility="collapsed")
+
 if st.button('Pesquisar'):  
         onClick(question)
   
