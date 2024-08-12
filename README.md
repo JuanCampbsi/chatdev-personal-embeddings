@@ -38,7 +38,7 @@ If you have any questions, access [Open AI](https://platform.openai.com/docs/gui
 
 ```bash
 # Open terminal/cmd and then clone this repository
-$ git clone https://github.com/JuanCampbsi/chatdev-personal.git
+$ git clone https://github.com/JuanCampbsi/chatdev-personal-embeddings.git
 
 # Access the project folder in the terminal/cmd
 $ cd chatdev-personal
