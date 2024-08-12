@@ -2,7 +2,7 @@
 
 ChatDev is an intelligent assistant designed to help developers get accurate and contextual answers to their technical questions. Using embeddings, ChatDev improves the accuracy of answers by retrieving relevant information from a pre-indexed database, ensuring that answers are always aligned with the context of the question.
 
-## Main Features
+### Main Features
 
 Improved Accuracy with Embeddings: ChatDev uses embeddings to search for semantically relevant information, ensuring that responses are highly accurate and contextualized.
 
